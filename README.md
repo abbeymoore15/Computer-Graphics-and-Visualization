@@ -1,1 +1,2 @@
 # Computer-Graphics-and-Visualization
+I approach software design by breaking the project into smaller, more manageable parts and planning how they'll work together. For my scene, I built the car and the racetrack step by step, then adjusted the textures, lighting, and camera as I reviewed the results. This helped me to practice organizing a scene and solving problems through iteration. I can use the same process in future projects by starting with a clean plan, building manageable steps, and making changes as I learn. 
